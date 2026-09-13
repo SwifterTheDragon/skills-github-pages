@@ -1,3 +1,5 @@
 ---
-title: Welcome to my blog!
+title: Modified Title
 ---
+
+# The content I want on my homepage
